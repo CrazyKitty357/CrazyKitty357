@@ -1,2 +1,2 @@
-<img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1cc0ed1502d642d9b56a3a7884b0bb0f/animated/light/3.0" style="vertical-align: middle; width: 80; height: 80;">
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1cc0ed1502d642d9b56a3a7884b0bb0f/animated/light/3.0" style="vertical-align: middle; width: 60; height: 60;">
 <a href="https://twitch.tv/cr4zyk1tty"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
