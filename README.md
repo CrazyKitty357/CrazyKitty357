@@ -1,1 +1,1 @@
-test
+<img src="https://static-cdn.jtvnw.net/emoticons/v2/emotesv2_1cc0ed1502d642d9b56a3a7884b0bb0f/animated/light/3.0" style="vertical-align: middle; width: 100; height: 100;">
